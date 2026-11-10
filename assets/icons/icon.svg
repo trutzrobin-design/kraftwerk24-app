@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#101013"/>
+  <rect x="34" y="34" width="444" height="444" rx="92" fill="#1e1419" stroke="#76283b" stroke-width="12"/>
+  <path d="M110 202h292M145 170v64m-25-48v32m272-48v64m25-48v32" fill="none" stroke="#d88b9a" stroke-width="24" stroke-linecap="round"/>
+  <text x="256" y="340" font-family="Arial,sans-serif" font-size="122" font-weight="800" text-anchor="middle" fill="#fff">24</text>
+  <text x="256" y="404" font-family="Arial,sans-serif" font-size="34" font-weight="700" letter-spacing="7" text-anchor="middle" fill="#d88b9a">KRAFTWERK</text>
+</svg>
