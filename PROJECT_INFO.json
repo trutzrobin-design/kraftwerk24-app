@@ -1,0 +1,27 @@
+{
+  "project": "KRAFTWERK 24",
+  "version": "1.0",
+  "package": "public-web-app",
+  "privacy": "No prefilled personal profile data, personal training weights, or personal equipment photos included.",
+  "storage": "IndexedDB with localStorage fallback; local to browser origin/device",
+  "cloud_sync": "Not active; adapter seam included but no provider or backend configured",
+  "manufacturer_options": [
+    "gym80",
+    "DHZ"
+  ],
+  "equipment_model_identification": "Users must verify exact models using their own equipment photos or nameplates.",
+  "files": [
+    "README.md",
+    "assets/icons/icon.svg",
+    "css/app.css",
+    "index.html",
+    "js/app.js",
+    "js/cloud-sync.js",
+    "js/data.js",
+    "js/storage.js",
+    "manifest.json",
+    "service-worker.js",
+    "start-local.bat",
+    "start-local.sh"
+  ]
+}
